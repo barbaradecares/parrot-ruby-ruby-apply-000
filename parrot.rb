@@ -1,6 +1,6 @@
 def parrot (phrase="Squawk!")
-phrase
-puts "#{phrase}"
 
+puts "#{phrase}"
+phrase
 end
 
